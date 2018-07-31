@@ -18,10 +18,10 @@ The idea was to make this similar to transfer learning.  Humans can learn someth
 
 ### Issues
 
-This may be just a roundabout way to the cost minimum.  Speed tests should reveal whether the learning happens quicker.
+- This may be just a roundabout way to the cost minimum.  Speed tests should reveal whether the learning happens quicker.
 
-If the network is continued to evolve by adding and modifying layers, there will definitely be a lot of overfitting.
+- If the network is continued to evolve by adding and modifying layers, there will definitely be a lot of overfitting.
 
-My laptop is pretty weak
+- My laptop is pretty weak
 
-I should get a job first
+- I should get a job first
